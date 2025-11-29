@@ -1,0 +1,17 @@
+===== STUDENT DETAILS =====
+
+Roll: 101
+Name: Sujan
+Branch: EC
+Marks: 0.00
+-------------------------
+Roll: 1967319632
+Name: êp®þÿÿÿIS
+Branch: g
+Marks: -1.#R
+-------------------------
+Roll: 4539717
+Name: ˜‡Du
+Branch: PêBuêp®þÿÿÿAIML
+Marks: 45.00
+-------------------------

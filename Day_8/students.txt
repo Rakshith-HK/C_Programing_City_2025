@@ -1,0 +1,17 @@
+===== STUDENT DETAILS =====
+
+Roll: 1234
+Name: Sujan
+Branch: IS
+Marks: 75.00
+-------------------------
+Roll: 22
+Name: rakshith
+Branch: CSE
+Marks: 80.00
+-------------------------
+Roll: 1
+Name: Namitha'
+Branch: AIML'
+Marks: 77.00
+-------------------------
